@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import { Link, Navigate, useLocation, useNavigate} from 'react-router-dom';
+import { Link,  useLocation, useNavigate} from 'react-router-dom';
 import Login from './Login';
 import { useForm } from "react-hook-form"
 import axios from 'axios';
