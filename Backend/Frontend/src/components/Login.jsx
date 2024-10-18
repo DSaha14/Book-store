@@ -67,7 +67,7 @@ function Login() {
         <input
         type='text'
         placeholder='Enter your password'
-        className='w-80 px-3 py-1 border roounded-md outline-none'
+        className='w-80 px-3 py-1 border rounded-md outline-none'
         {...register("password", { required: true })}
         />
         <br />
