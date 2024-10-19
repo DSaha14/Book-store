@@ -1,0 +1,58 @@
+[
+    {
+    "id" : 1,
+    "name": "Story Books",
+    "title" : "Padh bhi lo",
+    "price" : 0,
+    "category" : "Free",
+    "img" : "https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?t=st=1729321250~exp=1729324850~hmac=e58a071e7858bf14560fdaa181923b172b1258358d6296831229a2929b9acde1&w=996"
+    },
+    {
+       "id" : 2,
+    "name": "Comic Books",
+    "title" : "Have fun",
+    "price" : 10,
+    "category" : "Entertainment",
+    "img" : "https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?t=st=1729321250~exp=1729324850~hmac=e58a071e7858bf14560fdaa181923b172b1258358d6296831229a2929b9acde1&w=996" 
+    },
+    {
+        "id" : 3,
+        "name": "Sports Books",
+        "title" : "Learn and play",
+        "price" : 5,
+        "category" : "Sports",
+        "img" : "https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?t=st=1729321250~exp=1729324850~hmac=e58a071e7858bf14560fdaa181923b172b1258358d6296831229a2929b9acde1&w=996"
+    },
+    {
+        "id" : 4,
+        "name": "Fun Books",
+        "title" : "Padh bhi lo",
+        "price" : 0,
+        "category" : "Free",
+        "img" : "https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?t=st=1729321250~exp=1729324850~hmac=e58a071e7858bf14560fdaa181923b172b1258358d6296831229a2929b9acde1&w=996"
+    },
+    {
+        "id" : 5,
+        "name": "Magazines",
+        "title" : "Your daily updates",
+        "price" : 5,
+        "category" : "Information",
+        "img" : "https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?t=st=1729321250~exp=1729324850~hmac=e58a071e7858bf14560fdaa181923b172b1258358d6296831229a2929b9acde1&w=996"
+    },
+    {
+        "id" : 6,
+        "name": "Story Books",
+        "title" : "Padh bhi lo",
+        "price" : 0,
+        "category" : "Free",
+        "img" : "https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?t=st=1729321250~exp=1729324850~hmac=e58a071e7858bf14560fdaa181923b172b1258358d6296831229a2929b9acde1&w=996"
+    },
+    {
+        "id" : 7,
+        "name": "Fun Books",
+        "title" : "Padh bhi lo",
+        "price" : 0,
+        "category" : "Free",
+        "img" : "https://img.freepik.com/free-photo/book-pages-forming-heart_23-2147690545.jpg?t=st=1729321250~exp=1729324850~hmac=e58a071e7858bf14560fdaa181923b172b1258358d6296831229a2929b9acde1&w=996"
+    }
+]
